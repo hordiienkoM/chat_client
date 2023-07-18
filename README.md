@@ -7,7 +7,7 @@
 общего чата, отправки сообщений в чат, редактирования своих сообщений. 
 
 <h3> Приложение - сервер </h3>
-https://github.com/hordiienkoM/chatServer/tree/master
+https://github.com/hordiienkoM/chatServer
 
 ## Project setup
 ```
