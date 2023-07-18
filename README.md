@@ -1,4 +1,4 @@
-# night-chat
+# chat-client
 
 ## Project setup
 ```
