@@ -1,0 +1,1 @@
+export const RSOCKET_SERVER_URL = 'ws://localhost:7000';
